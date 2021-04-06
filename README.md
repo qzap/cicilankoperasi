@@ -1,1 +1,1 @@
-<a href="https://gitea.com/dwicahya.sulistyawan/cicilankoperasi"> Cicilan Koperasi </a>
+<a href="https://gitlab.com/qz88/cicilankoperasi"> Cicilan Koperasi </a>
